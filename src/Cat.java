@@ -4,12 +4,12 @@ public class Cat extends Animals implements Meowable{
 
     }
 
-    public void MakeSound() {
+    public void makeSound() {
         System.out.println("Miauu");
 
     }
 
-    public void SayName() {
+    public void sayName() {
         System.out.println("Moka");
 
     }

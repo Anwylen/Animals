@@ -5,12 +5,12 @@ public class Dog extends Animals implements barkable{
     }
 
 
-    public void MakeSound() {
+    public void makeSound() {
         System.out.println("Guaauuu");
     }
 
 
-    public void SayName() {
+    public void sayName() {
         System.out.println("Lobo");
 
     }

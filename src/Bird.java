@@ -4,12 +4,12 @@ public class Bird extends Animals implements tweetable{
 
     }
 
-    public void MakeSound() {
+    public void makeSound() {
         System.out.println("PioPio");
 
     }
 
-    public void SayName() {
+    public void sayName() {
         System.out.println("Paloma");
 
     }

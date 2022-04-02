@@ -1,7 +1,7 @@
 public abstract class Animals {
 
-    public abstract void MakeSound();
-    public abstract void SayName();
+    public abstract void makeSound();
+    public abstract void sayName();
 
 
 
