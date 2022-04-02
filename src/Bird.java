@@ -1,12 +1,12 @@
-public class Bird extends Animals implements tweetable{
+public class Bird extends Animals implements Tweetable {
 
     public void tweet() {
+        System.out.println("PioPio");
 
     }
 
     public void makeSound() {
-        System.out.println("PioPio");
-
+        tweet();
     }
 
     public void sayName() {
