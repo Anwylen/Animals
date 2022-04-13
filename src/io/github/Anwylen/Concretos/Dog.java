@@ -1,3 +1,6 @@
+import io.github.Anwylen.Abstractos.Animals;
+import io.github.Anwylen.Interfaces.Barkable;
+
 public class Dog extends Animals implements Barkable {
 
     public void bark() {

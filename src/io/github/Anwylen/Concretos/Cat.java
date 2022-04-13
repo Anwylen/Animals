@@ -1,4 +1,7 @@
-public class Cat extends Animals implements Meowable{
+import io.github.Anwylen.Abstractos.Animals;
+import io.github.Anwylen.Interfaces.Meowable;
+
+public class Cat extends Animals implements Meowable {
 
     public void meow() {
         System.out.println("Miauu");

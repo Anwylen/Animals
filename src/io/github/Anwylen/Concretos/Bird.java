@@ -1,3 +1,6 @@
+import io.github.Anwylen.Abstractos.Animals;
+import io.github.Anwylen.Interfaces.Tweetable;
+
 public class Bird extends Animals implements Tweetable {
 
     public void tweet() {
