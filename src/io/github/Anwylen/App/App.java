@@ -1,3 +1,8 @@
+import io.github.Anwylen.Abstractos.Animals;
+import io.github.Anwylen.Concretos.Bird;
+import io.github.Anwylen.Concretos.Cat;
+import io.github.Anwylen.Concretos.Dog;
+
 public class App {
 
     public static void main(String[] args) {
